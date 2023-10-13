@@ -4,7 +4,6 @@ title: Quick markdown example
 subtitle: This is a quick markdown example
 categories: markdown
 tags: [example]
-top: 2
 ---
 
 Paragraphs are separated by a blank line.
