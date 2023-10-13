@@ -160,10 +160,10 @@ header_pages:
 #   - about.md
 
 # Page default value
-#  defaults:
-#   home:
-   heading: "Cloud It be the Weather?"
-   subheading: "The way heading to a real me."
+defaults:
+  home:
+  heading: "Cloud It be the Weather?"
+  subheading: "The way heading to a real me."
 #  banner: "Your image url"
 
 # Banner default settings
