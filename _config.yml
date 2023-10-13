@@ -160,8 +160,8 @@ yat:
 #   - about.md
 
 # Page default value
-defaults:
-  home:
+ defaults:
+#  home:
   heading: "Cloud It be the Weather?"
   subheading: "The way heading to a real me."
 #  banner: "Your image url"
