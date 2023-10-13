@@ -152,16 +152,16 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
- header_pages:
-   - index.html
+header_pages:
+- index.html
 #   - archives.html
-   - categories.html
-   - tags.html
+- categories.html
+- tags.html
 #   - about.md
 
 # Page default value
- defaults:
-   home:
+#  defaults:
+#   home:
    heading: "Cloud It be the Weather?"
    subheading: "The way heading to a real me."
 #  banner: "Your image url"
