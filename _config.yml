@@ -160,11 +160,11 @@ header_pages:
 #   - about.md
 
 # Page default value
-#defaults:
-#  home:
-#  heading: "Cloud It be the Weather?"
-#  subheading: "The way heading to a real me."
-#  banner: "https://github.com/Venompool888/image/assets/94547252/22395775-4204-4f60-a366-c5458fc9ee57"
+defaults:
+  home:
+  heading: "It's up to you to give your best"
+  subheading: ""
+  banner: "https://github.com/Venompool888/image/assets/94547252/22395775-4204-4f60-a366-c5458fc9ee57"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
